@@ -1,0 +1,6 @@
+yfinance
+pandas
+numpy
+plotly
+stable-baselines3
+gymnasium
